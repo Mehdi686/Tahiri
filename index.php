@@ -10,5 +10,7 @@
 		<h1>Git project tutorial</h1>
 		<?php phpinfo(); ?>
 	</div>
+	
+	<footer>by xxxx &copy;</footer>
 </body>
 </html>
